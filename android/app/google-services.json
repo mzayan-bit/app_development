@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70180039826",
+    "project_id": "itszayanproject",
+    "storage_bucket": "itszayanproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70180039826:android:73aca0316e46f7e3740a4b",
+        "android_client_info": {
+          "package_name": "se.pixolity.personal_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH9eDS4gTY9T381Mc9f9nuHZxziXLxT8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
